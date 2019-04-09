@@ -31,6 +31,8 @@
 
 :tv: [Andrew Ng : Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
 
+:tv: [Stanford : Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
 :orange_book: [Ian goodfellow : Deep leanring](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_3?crid=MS46WU990GUS&keywords=deep+learning+ian+goodfellow&qid=1554795848&s=books&sprefix=deep+leaning+ian%2Cstripbooks%2C370&sr=1-3)
 
 ## Step #4:coding for deep leanring
