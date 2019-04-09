@@ -1,5 +1,9 @@
 # Resources on machine learning and deep learning 
 
+:tv::Video based toturials
+:orange_book:Text based tutorials
+
+
 ### step #1:leanring concepts of machine learning
 
 :orange_book:[Oliver Theobald : Machine leanring for absolute beginners](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B06VXKBLNG)
