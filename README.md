@@ -45,8 +45,6 @@ I suggest using first 2 tutorials on each step before moving to next one.
 
 :orange_book:[online DL book-deeplearningbook](http://www.deeplearningbook.org/)
 
-:orange_book: [Ian goodfellow : Deep leanring](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_3?crid=MS46WU990GUS&keywords=deep+learning+ian+goodfellow&qid=1554795848&s=books&sprefix=deep+leaning+ian%2Cstripbooks%2C370&sr=1-3)
-
 ## Step #4:Deep Learning models in python
 
 :tv: [deeplearning.ai : Introduction to TensorFlow](https://www.coursera.org/learn/introduction-tensorflow)
