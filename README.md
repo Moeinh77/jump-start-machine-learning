@@ -39,7 +39,9 @@ I suggest using first 2 tutorials on each step before moving to next one.
 
 :tv: [Andrew Ng : Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
 
-:tv: [Stanford : Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+:tv: [Stanford CS213N: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+:tv: [Stanford CS224N: NLP with Deep Learning ](https://www.youtube.com/watch?v=8rXD5-xhemo)
 
 :orange_book:[online DL book-deeplearningbook](http://www.deeplearningbook.org/)
 
