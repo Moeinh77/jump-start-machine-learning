@@ -49,7 +49,7 @@ I suggest using first 2 tutorials on each step before moving to next one.
 
 :tv: [fast ai : deep leanring for coders](https://course.fast.ai/)
 
-:tv:[deeplearning.ai : TensorFlow Specialization](https://www.coursera.org/collections/tensorflow-deeplearning-ai)
+:tv: [deeplearning.ai : TensorFlow Specialization](https://www.coursera.org/collections/tensorflow-deeplearning-ai)
 
 :orange_book: [Antonio Gulli : Deep Learning with Keras](https://www.amazon.com/Deep-Learning-Keras-Implementing-learning/dp/1787128423)
 
