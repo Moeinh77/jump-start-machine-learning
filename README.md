@@ -47,9 +47,9 @@ I suggest using first 2 tutorials on each step before moving to next one.
 
 ## Step #4:Deep Learning models with python
 
-:tv: [deeplearning.ai : Introduction to TensorFlow](https://www.coursera.org/learn/introduction-tensorflow)
-
 :tv: [fast ai : deep leanring for coders](https://course.fast.ai/)
+
+:tv:[deeplearning.ai : TensorFlow Specialization](https://www.coursera.org/collections/tensorflow-deeplearning-ai)
 
 :orange_book: [Antonio Gulli : Deep Learning with Keras](https://www.amazon.com/Deep-Learning-Keras-Implementing-learning/dp/1787128423)
 
