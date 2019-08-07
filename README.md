@@ -2,8 +2,6 @@
 
 ![](https://cdn-images-1.medium.com/max/1200/1*UHiU9a6rxLOovcMyx4fVaA.png)
 
-I've seen that alot of people don't know where to start with ML,So I decided to gather a list of best resources on machine learning and deep learning from around the web.Surely there are enormous number of good tutorials out there but I found the ones here more helpful than the rest ,they help you grasp the concepts in a small amount of time.It is worth mentioning that all the video tutorials suggested here are free.(Also there is a list of must-read papers on ML which you can find [here](https://github.com/Moeinh77/must-read-papers))
-
 I suggest using first 2 tutorials on each step before moving to next one.
 
 *This list will be updated. *
