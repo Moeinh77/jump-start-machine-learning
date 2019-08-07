@@ -2,8 +2,6 @@
 
 ![](https://cdn-images-1.medium.com/max/1200/1*UHiU9a6rxLOovcMyx4fVaA.png)
 
-I suggest using first 2 tutorials on each step before moving to next one.
-
 *This list will be updated. *
 
 #### Types of tutorials :
@@ -20,7 +18,7 @@ I suggest using first 2 tutorials on each step before moving to next one.
 
 :tv: [Andrew Ng : machine learning course](https://www.coursera.org/learn/machine-learning)
 
-:tv: [StackQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+:tv: [StackQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) (you can search for different tutorials on this channel but you don't have to watch all it's videos !)
 
 ## Step #2:Machine Learning models with python
 
