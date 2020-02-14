@@ -12,7 +12,7 @@
 
 :page_facing_up: Documents and blog posts
 
-## Step #1:Intro to Machine learning
+## Step #1: Intro to Machine learning
 
 :orange_book: [Oliver Theobald : Machine leanring for absolute beginners](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B06VXKBLNG)
 
@@ -20,7 +20,7 @@
 
 :tv: [StackQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) (you can search for different tutorials on this channel but you don't have to watch all it's videos !)
 
-## Step #2:Machine Learning models with python
+## Step #2: Machine Learning models with python
 
 :tv: [IBM : applied machine learning with python](https://www.coursera.org/learn/machine-learning)
 
@@ -31,7 +31,7 @@
 :tv: [Siraj Reval : python for data science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
 
-## Step #3:Intro to deep learning
+## Step #3: Intro to deep learning
 
 :tv: [Andrew Ng : Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
 
@@ -41,7 +41,7 @@
 
 :orange_book:[online DL book-deeplearningbook](http://www.deeplearningbook.org/)
 
-## Step #4:Deep Learning models with python
+## Step #4: Deep Learning models with python
 
 :tv: [fast ai : deep leanring for coders](https://course.fast.ai/)
 
