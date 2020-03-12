@@ -1,5 +1,3 @@
-# Machine Learning and Deep Learning learning materials
-
 ![](pic.png)
 
 *This list will be updated. *
