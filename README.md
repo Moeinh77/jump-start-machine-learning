@@ -12,13 +12,14 @@
 
 :page_facing_up: Documents and blog posts
 
-## Step #1: Intro to Machine learning
+## Step #1: Learning the Machine Learning
 
-:orange_book: [Oliver Theobald : Machine leanring for absolute beginners](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B06VXKBLNG)
+#### :orange_book: [Oliver Theobald : Machine leanring for absolute beginners](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B06VXKBLNG)
 
-:tv: [Andrew Ng : machine learning course](https://www.coursera.org/learn/machine-learning)
+This 200 page long book gives you a general idea about machine learning and different types of algorithms used in statistical learning. It is not a must, but not bad to have a look at.
 
-:tv: [StackQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) (you can search for different tutorials on this channel but you don't have to watch all it's videos !)
+#### :tv: [Andrew Ng : machine learning course](https://www.coursera.org/learn/machine-learning)
+This course starts from the basics of ML and then enters deep learning with explainng the neural networks and finally ot goes to unsupervised learning methods. Also this course includes some tips and tricks for making the ML systems. It is definitely a must! Anyone who wants to start the ML should begin with this course.
 
 ## Step #2: Machine Learning models with python
 
