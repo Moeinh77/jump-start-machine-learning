@@ -1,6 +1,6 @@
 # Resources on machine learning and deep learning 
 
-![](https://cdn-images-1.medium.com/max/1200/1*UHiU9a6rxLOovcMyx4fVaA.png)
+![](pic.png)
 
 *This list will be updated. *
 
