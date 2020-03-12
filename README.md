@@ -1,4 +1,4 @@
-# Resources on machine learning and deep learning 
+# Machine Learning and Deep Learning learning materials
 
 ![](pic.png)
 
