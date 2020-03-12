@@ -19,7 +19,7 @@ This 200 page long book gives you a general idea about machine learning and diff
 #### :tv: [Andrew Ng : machine learning course](https://www.coursera.org/learn/machine-learning)
 This course starts from the basics of ML and then enters deep learning with explaining the neural networks and finally it goes to unsupervised learning methods. Also this course includes some tips and tricks for making the ML systems. It is definitely a must! Anyone who wants to start the ML should begin with this course.
 
-#### :tv: [IBM : applied machine learning with python](https://www.coursera.org/learn/machine-learning)
+#### :tv: [IBM : applied machine learning with python](https://www.coursera.org/learn/machine-learning-with-python)
 This course is relatively short. It teaches how to use libraries like numpy and sci-kit learn for implementing ML algorithms. It is a good start for learning how to code ML algorithms in python.
 
 ## Deep Learning
