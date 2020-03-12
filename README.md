@@ -12,7 +12,7 @@
 
 :page_facing_up: Documents and blog posts
 
-## Step #1: Introduction to Machine Learning
+## Machine Learning
 
 #### :orange_book: [Oliver Theobald : Machine leanring for absolute beginners](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B06VXKBLNG)
 
@@ -24,7 +24,7 @@ This course starts from the basics of ML and then enters deep learning with expl
 #### :tv: [IBM : applied machine learning with python](https://www.coursera.org/learn/machine-learning)
 This course is relatively short. It teaches how to use libraries like numpy and sci-kit learn for implementing ML algorithms. It is a good start for learning how to code ML algorithms in python.
 
-## Step #3: Introduction to Deep Learning
+## Deep Learning
 
 #### :tv: [Deeplearning.ai : Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
 This specialization consists of 5 courses each about 4 weeks. The first course is an introduction to Neural networks, second is about technical details of neural networks and how to make them work better, third course is about managing ML projects and how to find errors in your work, fourth course includes convolutional neural networks and concepts of computer vision with deep learning, and final course is about natural language processing with deep learning. This is specialization is probably the best video tutorial on the internet. Along with the theory, you also learn how to TensorFlow library for implementing the deep learning algorithms. 
@@ -43,6 +43,8 @@ This course is mostly practical. The tutors do not focus on theory and math invo
 
 #### :tv: [deeplearning.ai : TensorFlow Specialization](https://www.coursera.org/collections/tensorflow-deeplearning-ai)
 It is a relatively simple course. It focuses on implementing fundamental concepts of deep learning with Keras which is library based on TensorFlow. There isn't much theory in this specialization and it is mostly about implementing algorithms with Keras.
+
+## Math and more theory!
 
 #### :orange_book:[online DL book-deeplearningbook](http://www.deeplearningbook.org/)
 This a comprehensive book on deep learning, which starts with a quick review on the math that you need for deep learning. I don't suggest starting with this book, but after you went through some of the courses that I mentioned above, you start studying this book. The concepts are explained at depth in this book.
